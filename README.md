@@ -98,6 +98,41 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------
 
+SPATIAL RESULTS
+
+The following figures illustrate the main spatial patterns derived from the analysis.
+
+### Precipitation (1960 vs 2024)
+
+![Precipitation comparison](Figures/precipitation_1960_2024.jpg)
+
+These maps show the spatial distribution of precipitation across northwestern Mexico. Higher precipitation occurs mainly in the Sierra Madre Occidental, while the Baja California Peninsula and coastal regions present lower precipitation levels.
+
+### Potential Evapotranspiration (1960 vs 2024)
+
+![ETP comparison](Figures/etp_1960_2024.jpg)
+
+Potential evapotranspiration shows an inverse spatial pattern relative to precipitation, with higher values in desert regions and lower values in mountainous areas.
+
+### Climatic Means (1960–2024)
+
+![Climatic means](Figures/climatic_means.jpg)
+
+The mean climatic conditions reveal strong spatial contrasts between arid coastal regions and more humid mountainous zones.
+
+### Water Balance
+
+![Water balance comparison](Figures/water_balance_1960_2024.jpg)
+
+Water balance results indicate widespread hydrological deficit across the region, particularly in Baja California and Sonora. More balanced conditions occur along the Sierra Madre Occidental.
+
+### Hydrological Deficit Frequency and Model Prediction
+
+![Deficit frequency and probability](Figures/deficit_frequency_probability.jpg)
+
+Both the historical frequency and the predicted probability maps highlight the persistence of hydrological deficit across northwestern Mexico. The similarity between both maps indicates that the machine learning models successfully capture the underlying hydroclimatic patterns governing deficit occurrence.
+
+------------------------------------------------------------
 DATA AND CODE AVAILABILITY
 
 All datasets, raster outputs, and Python scripts used in this study are publicly available in this repository to ensure reproducibility of the results.
