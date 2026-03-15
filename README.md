@@ -38,28 +38,6 @@ Temporal coverage: 1960–2024
 
 ------------------------------------------------------------
 
-REPOSITORY STRUCTURE
-
-data/
-Contains raw and processed climate datasets.
-
-rasters/
-Generated spatial raster layers including mean precipitation, evapotranspiration, water balance, and hydrological deficit probability.
-
-scripts/
-Python scripts used for the complete workflow.
-
-figures/
-Figures used in the manuscript.
-
-outputs/
-Trained machine learning models and performance tables.
-
-docs/
-Additional documentation and workflow diagrams.
-
-------------------------------------------------------------
-
 METHODOLOGICAL WORKFLOW
 
 The workflow implemented in this repository includes the following steps:
