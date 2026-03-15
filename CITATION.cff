@@ -1,1 +1,18 @@
-
+cff-version: 1.2.0
+title: "Spatial modeling of hydrological deficit using machine learning and climatic data (1960–2024) in Northwestern Mexico"
+message: "If you use or adapt the code in this repository, please cite the associated work."
+type: software
+authors:
+  - family-names: "Pérez-Aguilar"
+    given-names: "Lidia Yadira"
+repository-code: "https://github.com/perezlidia/hydrological-stress-ML"
+license: MIT
+date-released: 2026
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Pérez-Aguilar"
+      given-names: "Lidia Yadira"
+  year: 2026
+  title: "Spatial modeling of hydrological deficit using machine learning and climatic data (1960–2024) in Northwestern Mexico"
+  note: "Code adapted from Pérez-Aguilar et al. (2026) under the MIT License."
