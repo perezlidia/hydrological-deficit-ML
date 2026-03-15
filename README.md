@@ -139,13 +139,17 @@ All datasets, raster outputs, and Python scripts used in this study are publicly
 
 ------------------------------------------------------------
 
-PROJECT LEAD
+PROJECT TEAM
+Ramón Fernando López Osorio - ferrlop@uas.edu.mx
+Lidia Yadira Pérez Aguilar - lidiaperez@uas.edu.mx
+Roberto Bernal Guadiana - roberto.bernal@uas.edu.mx
+Raúl Queved García - raul.quevedo@info.uas.edu.mx
+Yareli López Sotelo - yareli.lopez@info.uas.edu.mx
+Luis Ángel Ahumada Aguilar - luisahumada@uas.edu.mx
 
-Lidia Yadira Pérez Aguilar
+
+
 Facultad de Informática Culiacán, Universidad Autónoma de Sinaloa, Culiacán, Sinaloa, México
-Researcher in geospatial analysis and environmental data science.
-lidiaperez@uas.edu.mx
-
 ------------------------------------------------------------
 
 LICENSE
