@@ -12,10 +12,10 @@ STUDY AREA
 
 The study area corresponds to northwestern Mexico and includes the following states:
 
--Sonora
--Sinaloa
--Baja California
--Baja California Sur
+  -Sonora
+  -Sinaloa
+  -Baja California
+  -Baja California Sur
 
 These regions are characterized by arid and semi-arid climates with low precipitation and high potential evapotranspiration.
 
@@ -25,13 +25,13 @@ DATA SOURCES
 
 The analysis uses the following climatic variables:
 
-Precipitation (PR)
-Potential Evapotranspiration (ETP)
+  -Precipitation (PR)
+  -Potential Evapotranspiration (ETP)
 
 Data sources:
 
-TerraClimate dataset
-Geographic data from INEGI and CONABIO
+  -TerraClimate dataset
+  -Geographic data from INEGI and CONABIO
 
 Spatial resolution: approximately 4 km  
 Temporal coverage: 1960–2024
