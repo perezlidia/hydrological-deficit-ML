@@ -12,10 +12,10 @@ STUDY AREA
 
 The study area corresponds to northwestern Mexico and includes the following states:
 
-  -Sonora
-  -Sinaloa
-  -Baja California
-  -Baja California Sur
+-  Sonora
+-  Sinaloa
+-  Baja California
+-  Baja California Sur
 
 These regions are characterized by arid and semi-arid climates with low precipitation and high potential evapotranspiration.
 
