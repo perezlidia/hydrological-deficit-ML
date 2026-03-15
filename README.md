@@ -126,14 +126,18 @@ All datasets, raster outputs, and Python scripts used in this study are publicly
 
 ------------------------------------------------------------
 
-AUTHOR
+PROJECT LEAD
 
 Lidia Yadira Pérez Aguilar
-
-Researcher in geospatial analysis, environmental data science, and machine learning applied to hydroclimatic systems.
+Facultad de Informática Culiacán, Universidad Autónoma de Sinaloa, Culiacán, Sinaloa, México
+Researcher in geospatial analysis and environmental data science.
+lidiaperez@uas.edu.mx
 
 ------------------------------------------------------------
 
 LICENSE
 
 This project is released under the MIT License.
+
+If this code is used or adapted in other studies, please cite it as follows:
+Code used or adapted from Pérez-Aguilar et al. (2026) under the MIT License.
